@@ -6,11 +6,9 @@ QUALCHE CONSIGLIO,
 CHI SIAMO
 
 >HOME
-
 ———————————————————-
 
 OUT OF SOCIAL CHALLENGE
-
 Prendi conoscenza del tempo che passi sui social, e sfida i tuoi amici a fare lo stesso! 
 
 
