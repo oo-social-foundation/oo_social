@@ -1,6 +1,5 @@
 <p align="center">
-
-<p>**HOME**</p>
+  <p>**HOME**</p>
 **IL PROGETTO**
 **MONITORA IL TUO TEMPO**
 **QUALCHE CONSIGLIO**
