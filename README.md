@@ -1,8 +1,7 @@
 <p align="center">
 Elenco pagine
- 
-  **HOME**
-  **IL PROGETTO**
+<p>**HOME**</p>
+**IL PROGETTO**
 **MONITORA IL TUO TEMPO**
 **QUALCHE CONSIGLIO**
 **CHI SIAMO**
