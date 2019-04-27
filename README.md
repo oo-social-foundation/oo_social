@@ -5,7 +5,8 @@ MONITORA IL TUO TEMPO,
 QUALCHE CONSIGLIO,
 CHI SIAMO
 
-HOME
+>HOME
+
 ———————————————————-
 
 OUT OF SOCIAL CHALLENGE
@@ -39,7 +40,7 @@ Altro
 **Quanti anni ha?**
 <14
 14-18
-19-24/n
+19-24
 25-34
 35-50
 />50
