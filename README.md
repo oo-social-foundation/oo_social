@@ -1,8 +1,4 @@
-Normal Text
-
 <p align="center">
-  <a Elenco pagine </a> 
-  <b>Some Links:</b><br>
+Elenco pagine
 </p>
 
-Normal text
