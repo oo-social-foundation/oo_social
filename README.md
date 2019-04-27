@@ -1,14 +1,15 @@
 Elenco pagine:
-HOME
-IL PROGETTO
-MONITORA IL TUO TEMPO
-QUALCHE CONSIGLIO
+HOME,
+IL PROGETTO,
+MONITORA IL TUO TEMPO,
+QUALCHE CONSIGLIO,
 CHI SIAMO
 
-HOME
+#HOME
 ———————————————————-
 
 OUT OF SOCIAL CHALLENGE
+
 Prendi conoscenza del tempo che passi sui social, e sfida i tuoi amici a fare lo stesso! 
 
 
@@ -22,19 +23,19 @@ NON USARLO!!!
 Sei pronto?
 Compila questo breve form e sfida te stesso e i tuoi amici a farne a meno per un po’!
 
- Qual’é il tuo social preferito?
+**Qual’é il tuo social preferito?**
 Instagram 
 Facebook 
 Twitter
 
-Perche ti sei inscritto? (con spunta)
+**Perche ti sei inscritto?** (con spunta)
 Mantenere e creare amicizie
 Leggere news e blog
 Comunicare un messaggio
 Iniziare un business 
 Altro 
 
-Quanti anni ha?
+**Quanti anni ha?**
 <14
 14-18
 19-24
@@ -42,21 +43,21 @@ Quanti anni ha?
 35-50
 >50
 
-Sesso?
+**Sesso?**
 M
 F
 
-Da dove vieni?
+**Da dove vieni?**
 elenco stati
 
-Quante ore al giorno passi sui social? 
+**Quante ore al giorno passi sui social?**
 Clicca qui per scoprirlo
 <1
 1-2
 3-5
 >5
 
-Pensavi…
+**Pensavi…**
 Di più
 Di meno 
 =
