@@ -79,7 +79,7 @@ Clicca qui per scoprirlo
 
 3-5
 
-/>5
+>5
 
 **Pensavi…**
 
