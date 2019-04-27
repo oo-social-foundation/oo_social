@@ -1,11 +1,16 @@
-Elenco pagine:
->HOME
->IL PROGETTO
->MONITORA IL TUO TEMPO
->QUALCHE CONSIGLIO
->CHI SIAMO
+#Elenco pagine:
 
->HOME
+HOME
+
+IL PROGETTO
+
+MONITORA IL TUO TEMPO
+
+QUALCHE CONSIGLIO
+
+CHI SIAMO
+
+#HOME
 ———————————————————-
 
 OUT OF SOCIAL CHALLENGE
@@ -73,7 +78,7 @@ __Clicca qui!__
 
 
 
-THE PROJECT
+#THE PROJECT
 ———————————————————-
 
 L’utilizzo dei social network é ormai così diffuso che molti di noi hanno perso la cognizione del tempo speso su di essi, venendo meno allo scopo per cui ci siamo inscritti in passato. 
@@ -97,11 +102,11 @@ Sei curioso di sapere come funziona questo sito?
 Scoprilo sulla nostra pagina __Github__
 
 
-IL TUO TEMPO SOCIAL
+#IL TUO TEMPO SOCIAL
 ———————————————————-
 
 
-QUALCHE CONSIGLIO
+#QUALCHE CONSIGLIO
 ———————————————————-
 
 Ora che avete eliminato il vostro social preferito per qualche giorno sarete nella situazione di dover decidere come usare il vostro tempo. Abbiamo quindi pensato di darvi alcuni consigli basati sul motivo per cui vi eravate iscritti.
@@ -132,7 +137,7 @@ Sei curioso? Leggi un libro, guarda un film o ascolta un gruppo che non conoscev
 Una volta rientrato, non dimenticarti di farci sapere come hai speso il tuo tempo sulle nostre pagine social, il tuo esempio potrebbe essere d’aiuto per qualcun altro.   
 
 
-CHI SIAMO
+#CHI SIAMO
 ———————————————————-
 
 **Il team**
