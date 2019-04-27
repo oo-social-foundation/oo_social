@@ -28,28 +28,43 @@ Sei pronto?
 Compila questo breve form e sfida te stesso e i tuoi amici a farne a meno per un po’!
 
 **Qual’é il tuo social preferito?**
-Instagram 
+Instagram
+
 Facebook 
+
 Twitter
 
 **Perche ti sei inscritto?** 
 (con spunta)
+
 Mantenere e creare amicizie
+
 Leggere news e blog
+
 Comunicare un messaggio
+
 Iniziare un business 
+
 Altro 
 
 **Quanti anni ha?**
+
 <14
+
 14-18
+
 19-24
+
 25-34
+
 35-50
+
 />50
 
 **Sesso?**
+
 M
+
 F
 
 **Da dove vieni?**
@@ -57,14 +72,21 @@ elenco stati
 
 **Quante ore al giorno passi sui social?**
 Clicca qui per scoprirlo
+
 <1
+
 1-2
+
 3-5
+
 />5
 
 **Pensavi…**
+
 Di più
+
 Di meno 
+
 /=
 
 Il nostro complesso algoritmo ora genererà per te un immagine che contiene il tempo che ti sfidiamo a non usare il tuo social network preferito. 
@@ -141,17 +163,27 @@ Una volta rientrato, non dimenticarti di farci sapere come hai speso il tuo temp
 ———————————————————-
 
 **Il team**
+
 Fabio Zanarello
+
 Isabelle Bielli
+
 Edoardo Marzorati
+
 Sara Manfredi
+
 Pietro Mandreoli 
 
 **Contatti**
+
 Facebook
+
 Instagram
+
 Twitter
+
 temp.oo.social@gmail.com
 
 **Dietro le quinte**
+
 GitHub
