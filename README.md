@@ -148,7 +148,8 @@ Ti consigliamo di informarti sui giornali per le news e su riviste specializzate
 
 **Comunicare o iniziare un business**
 Non c’è dubbio che i social siano un ottimo strumento per comunicare o iniziare una nuova attività.
-Ma bisogna sapere come farlo, improvvisarsi marketer non è sempre la strada più semplice. Sfrutta il tempo che ora hai a disposizione per leggere un libro che ti insegni come farlo in materia professionale.
+Ma bisogna sapere come farlo, improvvisarsi marketer non è sempre la strada più semplice. Sfrutta il tempo che ora hai a disposizione per leggere un libro che ti insegni come farlo in maniera professionale. Al tuo ritorno saprai usare molto meglio gli strumenti a tua disposizione.
+
 
 **Noia**
  Non esiste un vero motivo per cui ti sei iscritto? Ti consigliamo tre attività a seconda delle tue attitudini che potrebbero aiutarti a vincere la noia. 
