@@ -25,6 +25,7 @@ Era questo il tuo scopo quando ti sei iscritto?
 Out of social challenge ha l’obiettivo di farti prendere coscienza del tempo che spendi sui social facendo la cosa più trasgressiva che si possa fare su in un social network = **NON USARLO!!!** 
 
 **Sei pronto?**
+
 Compila questo breve form e sfida te stesso e i tuoi amici a farne a meno per un po’!
 
 **Qual é il tuo social preferito?**
@@ -36,7 +37,6 @@ Compila questo breve form e sfida te stesso e i tuoi amici a farne a meno per un
 - Twitter
 
 **Perche ti sei inscritto?** 
-
 
 - Mantenere e creare amicizie
 
@@ -60,7 +60,7 @@ Compila questo breve form e sfida te stesso e i tuoi amici a farne a meno per un
 
 - 35-50
 
-- />50
+- ``>``50
 
 **Sesso?**
 
@@ -80,7 +80,7 @@ Clicca qui per scoprirlo
 
 - 3-5
 
-- />5
+- ``>``5
 
 **Pensavi…**
 
@@ -88,7 +88,7 @@ Clicca qui per scoprirlo
 
 - Di meno 
 
-- /=
+- ``=``
 
 Il nostro complesso algoritmo ora genererà per te un immagine che contiene il tempo che ti sfidiamo a non usare il tuo social network preferito. 
 Scarica l’immagine, pubblicala sulla tua pagina, aggiungi la descrizione e sfida tre amici a fare lo stesso.
@@ -187,4 +187,4 @@ Una volta rientrato, non dimenticarti di farci sapere come hai speso il tuo temp
 
 ## Dietro le quinte
 
-GitHub
+- GitHub
