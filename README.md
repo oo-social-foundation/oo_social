@@ -1,19 +1,20 @@
->Elenco pagine:
+#OUT OF SOCIAL
 
-HOME
+##Elenco pagine:
 
-IL PROGETTO
+- HOME
 
-MONITORA IL TUO TEMPO
+- IL PROGETTO
 
-QUALCHE CONSIGLIO
+- MONITORA IL TUO TEMPO
 
-CHI SIAMO
+- QUALCHE CONSIGLIO
 
->HOME
-———————————————————-
+- CHI SIAMO
 
-OUT OF SOCIAL CHALLENGE
+##HOME
+
+###OUT OF SOCIAL CHALLENGE
 Prendi conoscenza del tempo che passi sui social, e sfida i tuoi amici a fare lo stesso! 
 
 
@@ -21,51 +22,51 @@ Ti sei mai chiesto quanto tempi passi sui social?
 Sei stufo di scorrere la home senza concludere nulla?
 Era questo il tuo scopo quando ti sei iscritto?
 
-Out of social challenge ha l’obiettivo di farti prendere coscienza del tempo che spendi sui social facendo la cosa più trasgressiva che si possa fare su in un social network:
-NON USARLO!!! 
+Out of social challenge ha l’obiettivo di farti prendere coscienza del tempo che spendi sui social facendo la cosa più trasgressiva che si possa fare su in un social network = **NON USARLO!!!** 
 
-Sei pronto?
+**Sei pronto?**
 Compila questo breve form e sfida te stesso e i tuoi amici a farne a meno per un po’!
 
-**Qual’é il tuo social preferito?**
-Instagram
+**Qual é il tuo social preferito?**
 
-Facebook 
+- Instagram
 
-Twitter
+- Facebook
+
+- Twitter
 
 **Perche ti sei inscritto?** 
-(con spunta)
 
-Mantenere e creare amicizie
 
-Leggere news e blog
+- Mantenere e creare amicizie
 
-Comunicare un messaggio
+- Leggere news e blog
 
-Iniziare un business 
+- Comunicare un messaggio
 
-Altro 
+- Iniziare un business 
+
+- Altro 
 
 **Quanti anni ha?**
 
-<14
+- <14
 
-14-18
+- 14-18
 
-19-24
+- 19-24
 
-25-34
+- 25-34
 
-35-50
+- 35-50
 
-/>50
+- />50
 
 **Sesso?**
 
-M
+- M
 
-F
+- F
 
 **Da dove vieni?**
 elenco stati
@@ -73,21 +74,21 @@ elenco stati
 **Quante ore al giorno passi sui social?**
 Clicca qui per scoprirlo
 
-<1
+- <1
 
-1-2
+- 1-2
 
-3-5
+- 3-5
 
-/>5
+- />5
 
 **Pensavi…**
 
-Di più
+- Di più
 
-Di meno 
+- Di meno 
 
-/=
+- /=
 
 Il nostro complesso algoritmo ora genererà per te un immagine che contiene il tempo che ti sfidiamo a non usare il tuo social network preferito. 
 Scarica l’immagine, pubblicala sulla tua pagina, aggiungi la descrizione e sfida tre amici a fare lo stesso.
@@ -100,8 +101,8 @@ __Clicca qui!__
 
 
 
->THE PROJECT
-———————————————————-
+##THE PROJECT
+
 
 L’utilizzo dei social network é ormai così diffuso che molti di noi hanno perso la cognizione del tempo speso su di essi, venendo meno allo scopo per cui ci siamo inscritti in passato. 
 La maggior parter l’ha fatto per rimanere in contatto con amici vicini e lontani, altri per rimanere informati sulle ultime notizie, altri ancora per comunicare un messaggio o iniziare un business. 
@@ -124,12 +125,11 @@ Sei curioso di sapere come funziona questo sito?
 Scoprilo sulla nostra pagina __Github__
 
 
->IL TUO TEMPO SOCIAL
-———————————————————-
+##IL TUO TEMPO SOCIAL
 
 
->QUALCHE CONSIGLIO
-———————————————————-
+##QUALCHE CONSIGLIO
+
 
 Ora che avete eliminato il vostro social preferito per qualche giorno sarete nella situazione di dover decidere come usare il vostro tempo. Abbiamo quindi pensato di darvi alcuni consigli basati sul motivo per cui vi eravate iscritti.
 
@@ -160,31 +160,31 @@ Sei curioso? Leggi un libro, guarda un film o ascolta un gruppo che non conoscev
 Una volta rientrato, non dimenticarti di farci sapere come hai speso il tuo tempo sulle nostre pagine social, il tuo esempio potrebbe essere d’aiuto per qualcun altro.   
 
 
->CHI SIAMO
-———————————————————-
+##CHI SIAMO
 
-**Il team**
 
-Fabio Zanarello
+###Il team
 
-Isabelle Bielli
+- Fabio Zanarello
 
-Edoardo Marzorati
+- Isabelle Bielli
 
-Sara Manfredi
+- Edoardo Marzorati
 
-Pietro Mandreoli 
+- Sara Manfredi
 
-**Contatti**
+- Pietro Mandreoli 
 
-Facebook
+##Contatti
 
-Instagram
+- Facebook
 
-Twitter
+- Instagram
 
-temp.oo.social@gmail.com
+- Twitter
 
-**Dietro le quinte**
+- temp.oo.social@gmail.com
+
+##Dietro le quinte
 
 GitHub
