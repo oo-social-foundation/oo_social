@@ -55,6 +55,15 @@ a:hover {
   border-bottom-color: #fff;
 }
 
+.scroll-me{
+  display: -webkit-box;
+    overflow-x: scroll;
+}
+
+.scroll-me::-webkit-scrollbar { 
+  display: none; 
+}
+
 
 @media (min-width: 48em) {
   .masthead-brand {
