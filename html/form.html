@@ -100,23 +100,63 @@
                     </div>
                     <hr class="mb-4">
 
-                    <h4 class="mb-3">Qual’é il social dove passi più tempo?</h4>
+                    <h4 class="mb-3">Sesso</h4>
                     <div class="d-block">
                         <div class="custom-control custom-radio">
-                            <input id="Facebook" name="social" type="radio" class="custom-control-input" required>
-                            <label class="custom-control-label" for="Facebook">Facebook</label>
+                            <input id="Maschio" name="genere" type="radio" class="custom-control-input" required>
+                            <label class="custom-control-label" for="Maschio">M</label>
                         </div>
                         <div class="custom-control custom-radio">
-                            <input id="Instagram" name="social" type="radio" class="custom-control-input" required>
-                            <label class="custom-control-label" for="Instagram">Instagram</label>
-                        </div>
-                        <div class="custom-control custom-radio">
-                            <input id="Twitter" name="social" type="radio" class="custom-control-input" required>
-                            <label class="custom-control-label" for="Twitter">Twitter</label>
+                            <input id="Femmina" name="genere" type="radio" class="custom-control-input" required>
+                            <label class="custom-control-label" for="Femmina">F</label>
                         </div>
                     </div>
                     <hr class="mb-4">
 
+
+                    <h4 class="mb-3">Da dove vieni?</h4>
+                    <div class="d-block">
+                        <div class="custom-control custom-radio">
+                            <select class="custom-select d-block w-50" id="country" name="country"></select>
+                        </div>
+                    </div>
+                    <hr class="mb-4">
+
+
+                    <h4 class="mb-3">Quante ore passi sui social?</h4>
+                    <p><a href="#" class="text-reset">clicca qui per scoprirlo!</a></p>
+                    <div class="d-block">
+                        <div class="custom-control custom-radio">
+                            <input id="uno" name="time" type="radio" class="custom-control-input" required>
+                            <label class="custom-control-label" for="uno">meno di 1 ora</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input id="due" name="time" type="radio" class="custom-control-input" required>
+                            <label class="custom-control-label" for="due">meno di 2 ore</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input id="cinque" name="time" type="radio" class="custom-control-input" required>
+                            <label class="custom-control-label" for="cinque">tra le 2 e le 5 ore</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input id="max" name="time" type="radio" class="custom-control-input" required>
+                            <label class="custom-control-label" for="max">più di 5 ore</label>
+                        </div>
+                    </div>
+                    <hr class="mb-4">
+
+                    <h4 class="mb-3">Pensavi...</h4>
+                    <div class="d-block">
+                        <div class="custom-control custom-radio">
+                            <input id="più" name="opinion" type="radio" class="custom-control-input" required>
+                            <label class="custom-control-label" for="più">di più</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input id="meno" name="opinion" type="radio" class="custom-control-input" required>
+                            <label class="custom-control-label" for="meno">di meno</label>
+                        </div>
+                    </div>
+                    <hr class="mb-4">
 
 
 
@@ -140,6 +180,15 @@
         </ul>
     </footer>
     </div>
+
+
+
+    <script src="../js/countries.js"></script>
+    <script>
+        
+	populateCountries("country"); // first parameter is id of country drop-down and second parameter is id of state drop-down
+
+    </script>
 </body>
 
 </html>
